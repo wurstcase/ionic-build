@@ -23,4 +23,4 @@ RUN npm i -g npm@${NPM_VERSION} && \
     npm i -g n && \
     n ${NODEJS_VERSION} && \
     npm i -g @ionic/cli@${IONIC_VERSION} && \
-    npm i -g CORDOVA
+    npm i -g cordova
